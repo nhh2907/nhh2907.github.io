@@ -97,7 +97,7 @@ It is interval data with a natural zero point. When the variable equals 0.0, the
 
 ordinal을 ratio로 무작정 바꾸는 경우, ordinal 값 사이에 존재하는 간극의 크기가 명확하지 않을 수 있기 때문에 위험함 
 
-예를 들어 “매우불만족”과 “보통” 사이의 거리가 “보통”과 “매우 만족” 사이의 거리와 같다는 위험한 전제를 깔고 있는 겁니다.
+예를 들어 “매우불만족”과 “보통” 사이의 거리가 “보통”과 “매우 만족” 사이의 거리와 같다는 위험한 전제를 깔고 있는 것이다
 
 # 질적변수(Qualitative Variable)와 양적변수(Quantitative Variable)
 
