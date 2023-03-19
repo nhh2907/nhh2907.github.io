@@ -9,7 +9,7 @@ tag: [Statistics, Sapientia a Dei]
 
 # **통계론적** 의사결정
 
-어떤 사건이 **우연히** 발생할 확률이 얼마일까
+어떤 사건이 <span style="color:coral">우연히</span> 발생할 확률이 얼마일까
 
 # 의미 차이
 
