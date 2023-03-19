@@ -16,40 +16,40 @@ timezone: Asia/Seoul
 # 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Dev Joon # the main title
+title: HYUNHO NOH # the main title
 
-tagline: 성장하는 개발자, 한준혁입니다. # it will display as the sub-title
+tagline: Data Scientist <br> ML, NLP, RecommenderSystem # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   blog, jekyll, portfolio, github, 개발, TIL, 공부, 블로그,
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://han-joon-hyeok.github.io"
+url: "https://nhh2907.github.io"
 
-author: Joon Hyeok Han # change to your full name
+author: Hyunho Noh # change to your full name
 
 github:
-  username: Han-Joon-Hyeok # change to your github username
+  username: nhh2907 # change to your github username
 
 twitter:
   username: # change to your twitter username
 
 social:
-  name: Joon Hyeok Han # it will shows as the copyright owner in Footer
-  email: hanjoonhyuk@naver.com # change to your email address
+  name: Hyunho Noh # it will shows as the copyright owner in Footer
+  email: nhh2907@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/han-joon-hyeok # change to your github homepage
+    - https://github.com/nhh2907 # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/nhh2907
+    - https://www.linkedin.com/in/nhh2907
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
 google_analytics:
-  id: "G-SKST7KNWSJ" # Fill with your Google Analytics ID
+  id: "G-CFRW971PP6" # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/profile.jpg
+avatar: /assets/img/profile/howl_fire.JPG
 
 # boolean type, the global switch for ToC in posts.
 toc: true
