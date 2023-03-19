@@ -7,26 +7,29 @@ categories: [Github Blog, Chirpy]
 tag: [Jekyll]
 ---
 
-# Chirpy 설치 방법
+# Chirpy 설치 방법 - 6단계
+> [한준혁님 Chirpy블로그](https://github.com/Han-Joon-Hyeok/Han-Joon-Hyeok.github.io)를 참조했음. 다른 블로그는 전부 실패함
+
 1. 깃허브에서 새로운 레파지토리 생성: 
     - 깃허브 레포지토리 이름 : [깃허브 아이디].github.io
-2. 깃허브 레포지토레에서 Permission 설정
-You have to configure your Repository Settings → Action → General → Workflow permissions and choose read and write permissions
+2. 깃허브 레포지토레에서 Permission 설정  
+You have to configure your Repository Settings → Action → General → Workflow permissions and choose **Read and Write Permissions**
 3. [해당 깃허브](https://github.com/Han-Joon-Hyeok/Han-Joon-Hyeok.github.io)에 들어가서 테마를 다운로드 한다
 4. 원하는 로컬 폴더에 앞축을 푼다
 5. 터미널에서 다음 명령어를 실행
 
-<pre><code>
-git init
+<pre><code>git init
 git branch -M main
 git remote add origin [깃허브 레포지토리 SSH]
 git add .
 git commit -m "[주석]"
 git push -u origin main
 </code></pre>
+
 - 푸시를 한 이후에 자동으로 gh-pages 브랜치를 생성됨
-6. gh-pages 브랜치 설정
-your repository - Settings →  Pages →  Build and deployment →  Branch에서 main 브랜치를 gh-pages 브랜치로 변경 후 저장 
+
+6. gh-pages 브랜치 설정  
+your repository - Settings →  Pages →  Build and deployment →  Branch에서 main 브랜치를 **gh-pages 브랜치**로 변경 후 저장 
 
 <br>
 
