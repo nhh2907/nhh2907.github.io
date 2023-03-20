@@ -658,7 +658,7 @@ $sidebar-display: "sidebar-display";
     line-height: 1.2rem;
     word-spacing: 1px;
     margin: 1.1rem 1.5rem 0.5rem 1.5rem;
-    min-height: 10rem; // avoid vertical shifting in multi-line words
+    min-height: 3.5rem; // avoid vertical shifting in multi-line words
     user-select: none;
   }
 
