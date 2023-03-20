@@ -104,6 +104,7 @@ Unsupervised learning is the algorithm **extracting information(features) from a
  A classic unsupervised learning task is to find the “best” **representation** of the data. By “best” we can mean different things, but generally speaking **we are looking for a representation that preserves as much information about $x$ as possible while obeying some penalty or constraint aimed at keeping the representation simpler or more accessible than $x$ itself**
 
  There are multiple ways of defining a simpler representation. Three of the most common include lower-dimensional representations, sparse representations, and independent representations. **Low-dimensional representations** attempt to compress as much information about x as possible in a smaller representation. **Sparse representations** embed the dataset into a representation whose entries are mostly zeros for most inputs. The use of sparse representations typically requires increasing the dimensionality of the representation, so that the representation becoming mostly zeros does not discard too much information. This results in an overall structure of the representation that tends to distribute data along the axes of the representation space. **Independent representations** attempt to disentangle the sources of variation underlying the data distribution such that the dimensions of the representation are statistically independent
+- 출처 : Deep Learning (Adaptive Computation and Machine Learning series)
 
 ## Types
 
