@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[기초통계] 1-6 상관관계, 상관계수"
+title: "[기초통계] 2-1 상관관계, 상관계수"
 date: 2023-03-12 19:29:00 +0900
 author: nhh2907
 categories: [Math, Statistics]
