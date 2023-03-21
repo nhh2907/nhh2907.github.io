@@ -1,24 +1,13 @@
 ---
 layout: post
-title: "[ML] 01. Supervised vs Unsupervised"
-date: 2023-03-21 15:12:00 +0900
+title: "[ML] 01. Supervised vs Unsupervised Machine Learning"
+date: 2023-03-19 15:12:00 +0900
 author: nhh2907
 categories: [AI, ML]
 tag: [ML, Coursera]
 math: true
 ---
-
-# 02. Supervised Vs. Unsupervised Machine Learning
-
 Tags: Week 1 : Introduction to Machine Learning
-
-# Table of Content
-
-- [What Is Machine Learning?](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Supervised Learning](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Unsupervised Learning](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Terms](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Reference](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
 
 # What Is Machine Learning?
 
@@ -122,14 +111,13 @@ Unsupervised learning is the algorithm **extracting information(features) from a
     
 
 # Terms
-
-- [Machine Learning](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Representation](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Regression](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Classification](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Category](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
-- [Class](https://www.notion.so/02-Supervised-Vs-Unsupervised-Machine-Learning-f6e2b6a8745c41dcbed8c4b0dd67273e)
+- Machine Learning
+- Representation
+- Regression
+- Classification
+- Category
+- Class
 
 # Reference
 
-- Deep Learning (Adaptive Computation and Machine Learning series)
+- [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_2?crid=38PFODSMU18QK&keywords=deep+learning&qid=1679380955&sprefix=deep+learnin%2Caps%2C390&sr=8-2)
