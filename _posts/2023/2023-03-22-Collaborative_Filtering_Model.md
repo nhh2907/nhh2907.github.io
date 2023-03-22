@@ -84,12 +84,12 @@ These algorithms are based on the fact that **similar users display similar patt
     
     Similarity functions are computed between the rows of the ratings matrix to discover similar users
     
-    |  | ItemA | ItemB | ItemC | ItemD | ItemE |
+    |  | <span style="color:coral">ItemA</span> | <span style="color:coral">ItemB</span> | <span style="color:coral">ItemC</span> | ItemD | ItemE |
     | --- | --- | --- | --- | --- | --- |
-    | User1 | 3 | 4 | 4 |  | 1 |
-    | User2 | 4 | 4 | 4 | 3 |  |
+    | <span style="color:coral">User1</span> | <span style="color:coral">3</span>| <span style="color:coral">4</span> | <span style="color:coral">4</span> |  | 1 |
+    | <span style="color:coral">User2</span> | <span style="color:coral">4</span> | <span style="color:coral">4</span> | <span style="color:coral">4</span> | 3 |  |
     | User3 | 1 | 1 | 2 | 5 |  |
-    
+
     ※ 주황색 : 유사도가 높음
     
     ※ 테이블 해석 : User1과 User2는 ItemA, B, C까지 평점 유사도가 높다
@@ -101,11 +101,11 @@ These algorithms are based on the fact that **similar users display similar patt
     Similarity functions are computed between the columns of the ratings matrix to discover similar items
     
     When such methods are applied to the transpose of the ratings matrix, they are referred to as item-based neighborhood models
-    
-    |  | User1 | User2 | User3 | User4 | User5 |
+
+    |  | <span style="color:coral">User1</span> | <span style="color:coral">User2</span> | <span style="color:coral">User3</span> | User4 | User5 |
     | --- | --- | --- | --- | --- | --- |
-    | ItemA | 5 | 4 | 4 |  | 5 |
-    | ItemB | 4 | 4 | 4 | 5 |  |
+    | <span style="color:coral">ItemA</span> | <span style="color:coral">5</span>| <span style="color:coral">4</span> | <span style="color:coral">4</span> |  | 5 |
+    | <span style="color:coral">ItemB</span> | <span style="color:coral">4</span> | <span style="color:coral">4</span> | <span style="color:coral">4</span> | 5 |  |
     | ItemC | 1 | 1 | 2 | 3 |  |
     
     ※ 주황색 : 유사도가 높음
