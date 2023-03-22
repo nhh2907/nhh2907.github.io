@@ -12,7 +12,7 @@ Description: Collaborative Filtering에 대한 전반적인 설명과 Matrix Fac
 <aside>
 💡 전체 그림을 보여주는 마인드맵
 
-[Matrix Factorization - Summary.pdf](assets/img/etc/recsys/2023-03-22-Collaborative_Filtering_Model/Matrix_Factorization_Summary.pdf)
+[Matrix Factorization - Summary](https://github.com/nhh2907/nhh2907.github.io/blob/main/assets/img/etc/recsys/2023-03-22-Collaborative_Filtering_Model/Matrix_Factorization_Summary.pdf)
 
 </aside>
 
