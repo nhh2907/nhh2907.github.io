@@ -3,7 +3,7 @@ layout: post
 title: "[ML] 01. Supervised vs Unsupervised Machine Learning"
 date: 2023-03-19 15:12:00 +0900
 author: nhh2907
-categories: [AI, ML]
+categories: [AI, Machine Learning]
 tag: [ML, Coursera]
 math: true
 ---

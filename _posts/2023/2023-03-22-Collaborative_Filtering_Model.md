@@ -3,7 +3,7 @@ layout: post
 title: "[Recsys] Collaborative Filtering Model"
 date: 2023-03-22 23:45:00 +0900
 author: nhh2907
-categories: [AI, RecommenderSystem]
+categories: [AI, Recommender System]
 tag: [ML, RecommenderSystem, Matrix Factorization]
 math: true
 Description: Collaborative Filtering에 대한 전반적인 설명과 Matrix Factorization
