@@ -41,7 +41,7 @@ Give a learning algorithm examples to learn from being given “**Correct Answer
 - Train your model with examples of inputs x and the right answers, that is the labels y
 - After the model has learned from these input(x) and output(y), it can then take a brand new input x that has never seen before, and try to produce the appropriate corresponding output y
 
-![type](/assets/img/etc/coursera/2023-03-21-Supervised_Unsupervised_Machine_Learning/type.png)
+![type](/assets/img/etc/coursera/Machine_Learning_Specialization/2023-03-21-Supervised_Unsupervised_Machine_Learning/type.png)
 
 ## Types
 
@@ -55,7 +55,7 @@ Models **predict a numerical value** given some input. To solve this task, the l
 
 - 출처 : Deep Learning (Adaptive Computation and Machine Learning series)
 
-![regression](/assets/img/etc/coursera/2023-03-21-Supervised_Unsupervised_Machine_Learning/regression.png)
+![regression](/assets/img/etc/coursera/Machine_Learning_Specialization/2023-03-21-Supervised_Unsupervised_Machine_Learning/regression.png)
 
 ### (2) Classification
 
@@ -72,7 +72,7 @@ When $y = f(x)$, **the model assigns an input described by vector $x$ to a categ
 
 - 출처 : Deep Learning (Adaptive Computation and Machine Learning series)
 
-![classification](/assets/img/etc/coursera/2023-03-21-Supervised_Unsupervised_Machine_Learning/classification.png)
+![classification](/assets/img/etc/coursera/Machine_Learning_Specialization/2023-03-21-Supervised_Unsupervised_Machine_Learning/classification.png)
 
 # Unsupervised Learning
 
