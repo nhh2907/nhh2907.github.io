@@ -255,11 +255,11 @@ $$
 - $\bar{v_j}= (v_{j1} \dots v_{jk})$
 
 $$
-r_{ij} \approx \Sigma^k_{s=1}u_{is} \ \cdot \ v_{js}
+r_{ij} \approx \Sum^k_{s=1}u_{is} \ \cdot \ v_{js}
 $$
 
 $$
-= \Sigma^k_{s=1}(\text{Affinity of user i to concept s}) \ \times (\text{Affinity of item j to concept s})
+= \Sum^k_{s=1}(\text{Affinity of user i to concept s}) \ \times (\text{Affinity of item j to concept s})
 $$
 
 ### Complexity
