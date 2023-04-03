@@ -260,7 +260,7 @@ $$
 P(A \cap B)=P(A)P(B)
 $$
 
-## 용어 주의 : Independent $\not=$ Exclusive
+## 용어 주의 : Independent(독립) $\not=$ Exclusive(배반)
 
 - Independent : <span style='color:coral'>서로 <U>영향</U>을 주지 않음</span>
 - Exclusive : <span style='color:coral'>서로 <U>공통된 요소</U>가 없음. 교집합이 없음</span>
